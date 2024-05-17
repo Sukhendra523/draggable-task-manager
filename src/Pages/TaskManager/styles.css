@@ -1,0 +1,10 @@
+.task_container {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 8%;
+}
+
+.task_column {
+    width: 33.33%;
+    margin: 20px;
+}
